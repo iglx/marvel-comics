@@ -1,5 +1,6 @@
 # API marvel
-Created marvel search engine using Marvel API
+Mecanismo de pesquisa da Marvel usando a API da Marvel<br>
+https://developer.marvel.com
 
 ## Como executar
 1- Baixar e instalar o XAMPP<br>
