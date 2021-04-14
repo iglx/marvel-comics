@@ -1,6 +1,6 @@
 # API marvel
-Mecanismo de pesquisa da Marvel usando a API da Marvel<br>
-https://developer.marvel.com
+Mecanismo de pesquisa da Marvel usando a API da Marvel.<br>
+<strong>API: </strong>https://developer.marvel.com
 
 ## Como executar
 1- Baixar e instalar o XAMPP<br>
